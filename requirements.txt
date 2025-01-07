@@ -3,6 +3,7 @@ langchain-community
 langchain-openai
 langchain-core
 langchain-experimental
+langchain-google-genai
 
 streamlit
 pandas
@@ -14,6 +15,4 @@ jupyterlab
 tiktoken
 tabulate
 python-dotenv
-langchain-google-search-agent
-langchain-google-genai
 
