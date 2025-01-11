@@ -1,14 +1,14 @@
 # Data Analysis Gemini
 
 ## Description:
-    ### Application Name: Data Analysis Tool
+    Application Name: Data Analysis Tool
 
-    ### Purpose:
+    Purpose:
         Engage in chat-based Q&A sessions related to data provided in CSV files.
         Analyze datasets from uploaded CSV files to extract meaningful insights.
         Visualize data effectively through charts and graphs.
 
-    ### Technologies Used:
+    Technologies Used:
         gemini-1.5-flash: Advanced language model for intelligent and conversational responses.
         langchain_experimental: Framework for building custom applications using language models.
         llms (Large Language Models): Powering natural language processing for intuitive interaction.
