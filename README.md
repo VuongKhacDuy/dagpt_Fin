@@ -1,31 +1,26 @@
-# dagpt
+'''
+# Data Analysis Gemini
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+## Description:
 
-## Installation
-```
-Install cookiecutter-data-science (template project structure):
-    pip install cookiecutter-data-science
+## Setup
+    Install cookiecutter-data-science (template project structure):
+        pip install cookiecutter-data-science
 
-Create virtual environment:
-    python -m venv .venv
+    Create virtual environment:
+        python -m venv .venv
 
-Activate virtual environment:
-    source .venv/bin/activate
+    Activate virtual environment:
+        source .venv/bin/activate
 
-Install dependencies:
-pip install -r requirements.txt
-
-```
+    Install dependencies:
+    pip install -r requirements.txt
 
 Create project
 cookiecutter https://github.com/drivendata/cookiecutter-data-science
 
-```
 
-A short description of the project.
+
 
 ## Project Organization
 
@@ -80,3 +75,4 @@ A short description of the project.
 
 --------
 
+'''

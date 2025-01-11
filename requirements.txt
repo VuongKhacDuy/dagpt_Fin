@@ -15,4 +15,5 @@ jupyterlab
 tiktoken
 tabulate
 python-dotenv
+pygwalker
 
