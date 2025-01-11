@@ -5,12 +5,12 @@ import pandas as pd
 def main():
     #set up streamlit interface
     st.set_page_config(
-        page_title="Interactive Visualization Tool", 
+        page_title="Visualization Tool", 
         page_icon="",layout="wide"
     )
 
-    st.header("Interactive Visualization Tool")
-    st.write("### Welcome to interactive visualization tool!")
+    st.header("Visualization Tool")
+    st.write("### Welcome to visualization tool!")
     
     #Render pygwalker
     if st.session_state.get("df") is not None:
